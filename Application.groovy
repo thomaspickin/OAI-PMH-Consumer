@@ -50,7 +50,7 @@ class Consumer {
 
 }
 
-
+// Receiving 500 records
 def cons = new Consumer()
 cons.getRecords('http://eprints.ucm.es/','cgi/oai2', [verb: 'ListRecords', metadataPrefix: 'oai_dc'], 500)
 
