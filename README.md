@@ -1,2 +1,2 @@
 # OAI-PMH-Consumer
-A consumer to receive record from a OAI-PMH Server
+A consumer to receive records from a OAI-PMH Server
